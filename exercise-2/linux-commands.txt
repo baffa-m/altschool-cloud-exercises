@@ -1,0 +1,10 @@
+sudo: allows users to run commands with superuser privileges
+pwd: shows current working directory
+mkdir: creates new directory/folder
+cd: changes working directory
+ls: shows list of contents in current directory
+rm: removes a file or folder
+cp: copies files or directories
+touch: creates a new empty file
+mv: moves file and its content or renames a file
+diff: compares two files
