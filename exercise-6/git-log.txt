@@ -1,0 +1,31 @@
+# git log
+
+commit 8af4911e1f3ded3d3b4ada9bef17d0cf5f70e021 (HEAD -> main)
+Author: Ahmad Almustapha <ahmadalmustapha4@gmail.com>
+Date:   Sun Feb 11 01:46:58 2024 +0100
+
+    exercise 4
+
+commit 83accab8b60b2b241032ecdd64fcb54610c07b3a
+Author: Ahmad Almustapha <ahmadalmustapha4@gmail.com>
+Date:   Sun Feb 11 01:39:34 2024 +0100
+
+    exercise 3
+
+commit 1e4309b1fb5e85f0405fa15b8d2e1d3e585d134f
+Author: Ahmad Almustapha <ahmadalmustapha4@gmail.com>
+Date:   Sun Feb 11 01:34:47 2024 +0100
+
+    exercise 2
+
+commit 74efa6636ad79fd05edb53a35558e89510093e53 (origin/main, origin/HEAD)
+Author: Ahmad Almustapha <ahmadalmustapha4@gmail.com>
+Date:   Sun Feb 11 01:05:28 2024 +0100
+
+    exercise 1
+
+commit 91d7cd325216b8afd2c27b5a482bbe5e8551c76c
+Author: baffa-m <84528179+baffa-m@users.noreply.github.com>
+Date:   Sun Feb 11 00:13:13 2024 +0100
+
+    Initial commit

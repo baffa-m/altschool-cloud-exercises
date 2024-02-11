@@ -1,0 +1,4 @@
+# git remote -v
+
+origin  https://github.com/baffa-m/altschool-cloud-exercises (fetch)
+origin  https://github.com/baffa-m/altschool-cloud-exercises (push)
