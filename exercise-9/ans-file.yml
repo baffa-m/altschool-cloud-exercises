@@ -1,0 +1,31 @@
+---
+- name: Setup Web Server
+  hosts: all
+  remote_user: root
+
+  tasks:
+  - name: Install Apache Server
+    apt:
+     name: apache2
+     state: latest
+
+  - name: Install PHP
+    apt:
+     name: php
+     state: latest
+
+  - name: Set Timezone to Africa/Lagos
+    community.general.timezone:
+      name: Africa/Lagos
+
+  - name: Copy index file
+    copy: 
+      src: index.php
+      dest: /var/www/html/index.php
+
+
+  - name: Ensure Apache service is running and enabled
+    service:
+      name: apache2
+      state: started
+      enabled: yes
